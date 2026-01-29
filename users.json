@@ -1,0 +1,19 @@
+{
+  "kira": {
+    "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "created_at": "2026-01-02T19:59:23.485504",
+    "last_login": "2026-01-02T19:59:23.486732",
+    "theme": "premium",
+    "is_admin": true,
+    "can_create_users": true
+  },
+  "RADON": {
+    "password": "e6545d10aa45ce6459572f953ae0cb13e3ec79520441b5327c5f8542569998f8",
+    "created_at": "2026-01-02T20:00:02.389883",
+    "last_login": "2026-01-02T20:01:50.075664",
+    "theme": "blue",
+    "is_admin": false,
+    "created_by_admin": true,
+    "created_by": "kira"
+  }
+}
